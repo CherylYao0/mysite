@@ -1,0 +1,2 @@
+INFO 2019-06-12 18:33:32,107 autoreload 576 Watching for file changes with StatReloader
+INFO 2019-06-12 18:34:03,854 autoreload 203 /home/pyvip/code/mysite/mysite/settings.py changed, reloading.
