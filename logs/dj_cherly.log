@@ -2,263 +2,8 @@ INFO 2019-06-12 18:34:04,838 autoreload 576 Watching for file changes with StatR
 INFO 2019-06-12 18:34:25,586 autoreload 203 /home/pyvip/code/mysite/mysite/settings.py changed, reloading.
 INFO 2019-06-12 18:34:26,663 autoreload 576 Watching for file changes with StatReloader
 INFO 2019-06-12 18:35:18,700 autoreload 203 /home/pyvip/code/mysite/mysite/settings.py changed, reloading.
-INFO 2019-06-16 19:14:16,953 autoreload 576 Watching for file changes with StatReloader
-INFO 2019-06-16 19:14:35,343 autoreload 576 Watching for file changes with StatReloader
-INFO 2019-06-16 19:31:02,149 autoreload 203 /usr/local/lib/python3.6/dist-packages/pymysql/optionfile.py changed, reloading.
-INFO 2019-06-16 19:31:04,092 autoreload 576 Watching for file changes with StatReloader
-INFO 2019-06-16 19:31:18,597 autoreload 576 Watching for file changes with StatReloader
-INFO 2019-06-16 19:33:01,822 autoreload 576 Watching for file changes with StatReloader
-INFO 2019-06-16 19:33:25,713 autoreload 576 Watching for file changes with StatReloader
-INFO 2019-06-16 19:34:35,885 autoreload 203 /usr/local/lib/python3.6/dist-packages/django/core/checks/messages.py changed, reloading.
-INFO 2019-06-16 22:04:17,351 basehttp 154 "GET / HTTP/1.1" 200 18057
-INFO 2019-06-16 22:04:17,415 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
-INFO 2019-06-16 22:04:17,431 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
-INFO 2019-06-16 22:04:17,445 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
-INFO 2019-06-16 22:04:17,452 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
-INFO 2019-06-16 22:04:17,454 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
-INFO 2019-06-16 22:04:17,550 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
-INFO 2019-06-16 22:04:17,562 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
-INFO 2019-06-16 22:04:17,587 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
-INFO 2019-06-16 22:04:17,616 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
-INFO 2019-06-16 22:04:17,622 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
-INFO 2019-06-16 22:04:17,642 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
-INFO 2019-06-16 22:04:17,682 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
-INFO 2019-06-16 22:04:17,690 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
-INFO 2019-06-16 22:04:17,737 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
-INFO 2019-06-16 22:04:17,740 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
-INFO 2019-06-16 22:04:17,749 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
-INFO 2019-06-16 22:04:17,877 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
-WARNING 2019-06-16 22:04:18,150 log 228 Not Found: /favicon.ico
-WARNING 2019-06-16 22:04:18,153 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2027
-WARNING 2019-06-16 22:12:40,041 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:12:40,043 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2042
-WARNING 2019-06-16 22:14:19,360 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:19,363 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:20,194 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:20,195 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:20,559 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:20,560 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:20,956 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:20,957 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:21,169 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:21,171 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:28,835 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:28,836 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:29,451 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:29,452 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-INFO 2019-06-16 22:14:31,640 basehttp 154 "GET / HTTP/1.1" 200 18057
-WARNING 2019-06-16 22:14:33,401 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:33,404 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2394
-WARNING 2019-06-16 22:14:49,012 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:14:49,013 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2382
-INFO 2019-06-16 22:15:21,571 basehttp 154 "GET /login HTTP/1.1" 301 0
-INFO 2019-06-16 22:15:21,594 basehttp 154 "GET /login/ HTTP/1.1" 200 4054
-INFO 2019-06-16 22:15:21,628 basehttp 154 "GET /static/css/authPro/auth.css HTTP/1.1" 200 3286
-WARNING 2019-06-16 22:15:26,149 log 228 Not Found: /users/login.html
-WARNING 2019-06-16 22:15:26,153 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2382
-WARNING 2019-06-16 22:15:34,688 log 228 Not Found: /users/register.html
-WARNING 2019-06-16 22:15:34,695 basehttp 154 "GET /users/register.html HTTP/1.1" 404 2391
-WARNING 2019-06-16 22:15:45,312 log 228 Not Found: /login/
-WARNING 2019-06-16 22:15:45,314 basehttp 154 "GET /login/ HTTP/1.1" 404 2351
-WARNING 2019-06-16 22:15:49,382 log 228 Not Found: /login/
-WARNING 2019-06-16 22:15:49,384 basehttp 154 "GET /login/ HTTP/1.1" 404 2351
-WARNING 2019-06-16 22:15:51,584 log 228 Not Found: /login/
-WARNING 2019-06-16 22:15:51,587 basehttp 154 "GET /login/ HTTP/1.1" 404 2351
-INFO 2019-06-16 22:15:54,967 basehttp 154 "GET /login/ HTTP/1.1" 200 4054
-INFO 2019-06-16 22:15:56,901 basehttp 154 "GET /login/ HTTP/1.1" 200 4054
-INFO 2019-06-16 22:16:15,058 basehttp 154 "GET /register/ HTTP/1.1" 200 4257
-INFO 2019-06-16 22:16:15,079 basehttp 154 "GET /static/images/captcha.png HTTP/1.1" 200 4296
-WARNING 2019-06-16 22:16:19,113 log 228 Not Found: /register/register.html
-WARNING 2019-06-16 22:16:19,115 basehttp 154 "GET /register/register.html HTTP/1.1" 404 2400
-WARNING 2019-06-16 22:17:16,631 log 228 Not Found: /register/register.html
-WARNING 2019-06-16 22:17:16,634 basehttp 154 "GET /register/register.html HTTP/1.1" 404 2400
-INFO 2019-06-16 22:17:18,825 basehttp 154 "GET /register/ HTTP/1.1" 200 4257
-WARNING 2019-06-16 22:17:21,586 log 228 Not Found: /register/register.html
-WARNING 2019-06-16 22:17:21,588 basehttp 154 "GET /register/register.html HTTP/1.1" 404 2400
-INFO 2019-06-16 22:18:17,800 basehttp 154 "GET / HTTP/1.1" 200 18035
-INFO 2019-06-16 22:18:19,393 basehttp 154 "GET /login/ HTTP/1.1" 200 4032
-INFO 2019-06-16 22:18:20,877 basehttp 154 "GET /register/ HTTP/1.1" 200 4257
-WARNING 2019-06-16 22:18:24,884 log 228 Not Found: /register/register.html
-WARNING 2019-06-16 22:18:24,888 basehttp 154 "GET /register/register.html HTTP/1.1" 404 2400
-INFO 2019-06-16 22:19:28,838 basehttp 154 "GET / HTTP/1.1" 200 18035
-INFO 2019-06-16 22:19:30,705 basehttp 154 "GET /login/ HTTP/1.1" 200 3983
-INFO 2019-06-16 22:19:32,167 basehttp 154 "GET /register/ HTTP/1.1" 200 4745
-INFO 2019-06-16 22:19:33,209 basehttp 154 "GET /login/ HTTP/1.1" 200 3983
-INFO 2019-06-16 22:19:33,879 basehttp 154 "GET /register/ HTTP/1.1" 200 4745
-INFO 2019-06-16 22:21:26,993 basehttp 154 "GET / HTTP/1.1" 200 18033
-INFO 2019-06-16 22:32:39,593 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:56,940 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:57,858 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:58,205 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:58,395 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:58,576 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:58,760 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:58,959 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:59,348 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:59,558 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:32:59,760 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:33:00,376 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:33:00,557 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:33:00,734 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:33:42,171 basehttp 154 "GET /register/ HTTP/1.1" 200 4743
-INFO 2019-06-16 22:37:53,907 basehttp 154 "GET /register/ HTTP/1.1" 200 4789
-INFO 2019-06-16 22:37:53,934 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
-INFO 2019-06-16 22:37:53,938 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 1264
-WARNING 2019-06-16 22:37:54,032 log 228 Not Found: /image_codes/1b131ce5-5f66-4880-a098-8196cf71e2d7/
-WARNING 2019-06-16 22:37:54,040 basehttp 154 "GET /image_codes/1b131ce5-5f66-4880-a098-8196cf71e2d7/ HTTP/1.1" 404 2481
-WARNING 2019-06-16 22:37:55,221 log 228 Not Found: /image_codes/5eee826c-a5c2-4f83-8d77-db4e3f7de6bd/
-WARNING 2019-06-16 22:37:55,223 basehttp 154 "GET /image_codes/5eee826c-a5c2-4f83-8d77-db4e3f7de6bd/ HTTP/1.1" 404 2481
-WARNING 2019-06-16 22:37:55,913 log 228 Not Found: /image_codes/0a2c8a22-34eb-493c-9191-ba6cb47bb88a/
-WARNING 2019-06-16 22:37:55,914 basehttp 154 "GET /image_codes/0a2c8a22-34eb-493c-9191-ba6cb47bb88a/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:38:03,285 basehttp 154 "GET /register/ HTTP/1.1" 200 4789
-WARNING 2019-06-16 22:38:03,405 log 228 Not Found: /image_codes/4843913f-4493-490b-af3c-3930d909a5a2/
-WARNING 2019-06-16 22:38:03,430 basehttp 154 "GET /image_codes/4843913f-4493-490b-af3c-3930d909a5a2/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:38:03,919 basehttp 154 "GET /register/ HTTP/1.1" 200 4789
-WARNING 2019-06-16 22:38:04,025 log 228 Not Found: /image_codes/6bee5f69-1817-463f-a1bc-0280d4411e8f/
-WARNING 2019-06-16 22:38:04,031 basehttp 154 "GET /image_codes/6bee5f69-1817-463f-a1bc-0280d4411e8f/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:38:04,490 basehttp 154 "GET /register/ HTTP/1.1" 200 4789
-WARNING 2019-06-16 22:38:04,588 log 228 Not Found: /image_codes/998a3f5e-9bb6-4f44-b001-ee3e9c6fdc86/
-WARNING 2019-06-16 22:38:04,595 basehttp 154 "GET /image_codes/998a3f5e-9bb6-4f44-b001-ee3e9c6fdc86/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:38:04,951 basehttp 154 "GET /register/ HTTP/1.1" 200 4789
-WARNING 2019-06-16 22:38:05,057 log 228 Not Found: /image_codes/de333d2e-383c-42e3-a14d-2e0bce42bf8b/
-WARNING 2019-06-16 22:38:05,059 basehttp 154 "GET /image_codes/de333d2e-383c-42e3-a14d-2e0bce42bf8b/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:39:59,745 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-INFO 2019-06-16 22:39:59,785 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-WARNING 2019-06-16 22:39:59,850 log 228 Not Found: /image_codes/b7a18cf5-64ca-437c-95f8-a146d2d7a187/
-WARNING 2019-06-16 22:39:59,857 basehttp 154 "GET /image_codes/b7a18cf5-64ca-437c-95f8-a146d2d7a187/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:00,331 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:00,420 log 228 Not Found: /image_codes/52c5122d-21bc-497a-9e33-9fa146dca58a/
-WARNING 2019-06-16 22:40:00,423 basehttp 154 "GET /image_codes/52c5122d-21bc-497a-9e33-9fa146dca58a/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:00,521 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:00,630 log 228 Not Found: /image_codes/58f529f0-d4ef-4b51-bc46-551988982a75/
-WARNING 2019-06-16 22:40:00,631 basehttp 154 "GET /image_codes/58f529f0-d4ef-4b51-bc46-551988982a75/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:00,714 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:00,800 log 228 Not Found: /image_codes/b1d222e2-9de1-43d1-9715-150c8ff17e2c/
-WARNING 2019-06-16 22:40:00,807 basehttp 154 "GET /image_codes/b1d222e2-9de1-43d1-9715-150c8ff17e2c/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:57,693 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-INFO 2019-06-16 22:40:57,714 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-WARNING 2019-06-16 22:40:57,779 log 228 Not Found: /image_codes/1b7e75a4-9f99-475f-b805-0cd205852a29/
-WARNING 2019-06-16 22:40:57,781 basehttp 154 "GET /image_codes/1b7e75a4-9f99-475f-b805-0cd205852a29/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:58,421 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:58,503 log 228 Not Found: /image_codes/5de0ccfd-c850-4aa4-8c6c-e5aec5c74bf0/
-WARNING 2019-06-16 22:40:58,506 basehttp 154 "GET /image_codes/5de0ccfd-c850-4aa4-8c6c-e5aec5c74bf0/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:58,641 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:58,728 log 228 Not Found: /image_codes/9fc74df3-0ece-4395-a72c-03c5fd4f9ead/
-WARNING 2019-06-16 22:40:58,729 basehttp 154 "GET /image_codes/9fc74df3-0ece-4395-a72c-03c5fd4f9ead/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:58,810 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:58,895 log 228 Not Found: /image_codes/faa9be00-1e7b-4124-a456-8f77bd8e419f/
-WARNING 2019-06-16 22:40:58,901 basehttp 154 "GET /image_codes/faa9be00-1e7b-4124-a456-8f77bd8e419f/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:59,008 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:59,093 log 228 Not Found: /image_codes/2d242fde-bdfb-4469-ac8b-bb435c4d2a60/
-WARNING 2019-06-16 22:40:59,094 basehttp 154 "GET /image_codes/2d242fde-bdfb-4469-ac8b-bb435c4d2a60/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:59,223 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:59,336 log 228 Not Found: /image_codes/09a844b5-0168-4a7b-971a-130c9554ce6d/
-WARNING 2019-06-16 22:40:59,338 basehttp 154 "GET /image_codes/09a844b5-0168-4a7b-971a-130c9554ce6d/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:59,675 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:59,757 log 228 Not Found: /image_codes/3b2ff759-c453-49af-9f92-5c1372177021/
-WARNING 2019-06-16 22:40:59,758 basehttp 154 "GET /image_codes/3b2ff759-c453-49af-9f92-5c1372177021/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:40:59,844 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:40:59,939 log 228 Not Found: /image_codes/5b7ba44e-254a-4f69-bfb4-72ad097d3c0a/
-WARNING 2019-06-16 22:40:59,943 basehttp 154 "GET /image_codes/5b7ba44e-254a-4f69-bfb4-72ad097d3c0a/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:41:00,039 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:41:00,132 log 228 Not Found: /image_codes/eb487e1a-fee0-499e-8d95-15594c3f7e68/
-WARNING 2019-06-16 22:41:00,135 basehttp 154 "GET /image_codes/eb487e1a-fee0-499e-8d95-15594c3f7e68/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:41:00,575 basehttp 154 "GET /register/ HTTP/1.1" 200 4840
-WARNING 2019-06-16 22:41:00,657 log 228 Not Found: /image_codes/3ed995cc-8a69-4f4a-ba45-bb2cab2d6354/
-WARNING 2019-06-16 22:41:00,658 basehttp 154 "GET /image_codes/3ed995cc-8a69-4f4a-ba45-bb2cab2d6354/ HTTP/1.1" 404 2481
-INFO 2019-06-16 22:42:34,186 basehttp 154 "GET /login/ HTTP/1.1" 200 3979
-INFO 2019-06-16 22:42:57,038 basehttp 154 "GET /login/ HTTP/1.1" 200 3979
-INFO 2019-06-16 22:43:05,561 basehttp 154 "GET / HTTP/1.1" 200 18045
-INFO 2019-06-16 22:43:07,153 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3991
-INFO 2019-06-16 22:43:09,620 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4858
-INFO 2019-06-16 22:43:09,639 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-WARNING 2019-06-16 22:43:09,725 log 228 Not Found: /image_codes/f1fdca52-e645-4f78-b490-71f2b7ea1b90/
-WARNING 2019-06-16 22:43:09,727 basehttp 154 "GET /image_codes/f1fdca52-e645-4f78-b490-71f2b7ea1b90/ HTTP/1.1" 404 2247
-INFO 2019-06-16 22:52:46,064 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4858
-INFO 2019-06-16 22:52:46,148 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-WARNING 2019-06-16 22:52:46,371 log 228 Not Found: /image_codes/c387cee7-d64e-4b63-b16f-fe12f5db9f6a/
-WARNING 2019-06-16 22:52:46,373 basehttp 154 "GET /image_codes/c387cee7-d64e-4b63-b16f-fe12f5db9f6a/ HTTP/1.1" 404 2247
-ERROR 2019-06-16 22:59:48,410 log 228 Internal Server Error: /users/register/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: as_view() takes 1 positional argument but 2 were given
-ERROR 2019-06-16 22:59:48,415 basehttp 154 "GET /users/register/ HTTP/1.1" 500 61125
-ERROR 2019-06-16 23:01:06,868 log 228 Internal Server Error: /users/register/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: as_view() takes 1 positional argument but 2 were given
-ERROR 2019-06-16 23:01:06,873 basehttp 154 "GET /users/register/ HTTP/1.1" 500 61125
-ERROR 2019-06-16 23:01:07,972 log 228 Internal Server Error: /users/register/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: as_view() takes 1 positional argument but 2 were given
-ERROR 2019-06-16 23:01:07,977 basehttp 154 "GET /users/register/ HTTP/1.1" 500 61125
-ERROR 2019-06-16 23:01:08,189 log 228 Internal Server Error: /users/register/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: as_view() takes 1 positional argument but 2 were given
-ERROR 2019-06-16 23:01:08,193 basehttp 154 "GET /users/register/ HTTP/1.1" 500 61125
-INFO 2019-06-16 23:01:32,744 basehttp 154 "GET / HTTP/1.1" 200 18045
-ERROR 2019-06-16 23:01:34,506 log 228 Internal Server Error: /users/register/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: as_view() takes 1 positional argument but 2 were given
-ERROR 2019-06-16 23:01:34,511 basehttp 154 "GET /users/register/ HTTP/1.1" 500 60978
-ERROR 2019-06-16 23:02:42,031 log 228 Internal Server Error: /users/register/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-TypeError: as_view() takes 1 positional argument but 2 were given
-ERROR 2019-06-16 23:02:42,036 basehttp 154 "GET /users/register/ HTTP/1.1" 500 60978
-INFO 2019-06-16 23:03:25,474 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4858
-INFO 2019-06-16 23:03:25,518 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-INFO 2019-06-16 23:03:25,681 views 38 Image code: XW8O
-INFO 2019-06-16 23:03:25,687 basehttp 154 "GET /image_codes/aa44bdc2-9ecd-41b7-a54a-c9f2769d52cf/ HTTP/1.1" 200 3596
-INFO 2019-06-16 23:03:28,362 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4858
-INFO 2019-06-16 23:03:28,477 views 38 Image code: CHIF
-INFO 2019-06-16 23:03:28,479 basehttp 154 "GET /image_codes/2a7e1181-f462-4128-aa55-a79414928bdd/ HTTP/1.1" 200 3023
-INFO 2019-06-16 23:03:29,205 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3991
-INFO 2019-06-16 23:03:30,534 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4858
-INFO 2019-06-16 23:03:30,634 views 38 Image code: JFQG
-INFO 2019-06-16 23:03:30,635 basehttp 154 "GET /image_codes/68b08c1a-5cb2-4a8e-89e5-387c230b377a/ HTTP/1.1" 200 2925
-INFO 2019-06-16 23:03:32,853 views 38 Image code: FI9L
-INFO 2019-06-16 23:03:32,854 basehttp 154 "GET /image_codes/b37acd24-6c6b-4dc8-b2a9-05ee27289e2a/ HTTP/1.1" 200 3024
-INFO 2019-06-16 23:03:33,428 views 38 Image code: FLTU
-INFO 2019-06-16 23:03:33,429 basehttp 154 "GET /image_codes/7dc2a83a-09ad-45a0-8890-7ef95f7b2681/ HTTP/1.1" 200 3410
-WARNING 2019-06-16 23:06:56,423 log 228 Not Found: /image_codes
-WARNING 2019-06-16 23:06:56,426 basehttp 154 "GET /image_codes HTTP/1.1" 404 2338
-WARNING 2019-06-16 23:08:19,941 log 228 Not Found: /image_code
-WARNING 2019-06-16 23:08:19,944 basehttp 154 "GET /image_code HTTP/1.1" 404 2307
-ERROR 2019-06-16 23:08:23,600 log 228 Internal Server Error: /image_codes
+INFO 2019-08-16 01:51:54,298 basehttp 154 "GET /news HTTP/1.1" 301 0
+ERROR 2019-08-16 01:51:54,756 log 228 Internal Server Error: /news/
 Traceback (most recent call last):
   File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
     response = get_response(request)
@@ -270,9 +15,74 @@ Traceback (most recent call last):
     return self.dispatch(request, *args, **kwargs)
   File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
     return handler(request, *args, **kwargs)
-TypeError: get() missing 1 required positional argument: 'image_code_id'
-ERROR 2019-06-16 23:08:23,607 basehttp 154 "GET /image_codes HTTP/1.1" 500 69962
-ERROR 2019-06-16 23:08:40,844 log 228 Internal Server Error: /image_codes
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 01:51:54,990 basehttp 154 "GET /news/ HTTP/1.1" 500 138529
+WARNING 2019-08-16 01:51:57,191 log 228 Not Found: /favicon.ico
+WARNING 2019-08-16 01:51:57,193 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3192
+ERROR 2019-08-16 01:52:15,924 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 22, in index
+    tags = Tag.objects.only('id', 'name').filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: create_time, id, is_deleted, name, news, update_time
+ERROR 2019-08-16 01:52:15,930 basehttp 154 "GET / HTTP/1.1" 500 98488
+INFO 2019-08-16 01:52:35,609 basehttp 154 "GET / HTTP/1.1" 200 11553
+INFO 2019-08-16 01:52:35,755 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-16 01:52:35,756 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-16 01:52:35,760 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-16 01:52:35,871 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-16 01:52:35,960 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 4540
+INFO 2019-08-16 01:52:35,965 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-16 01:52:35,965 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-16 01:52:36,059 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-16 01:52:36,173 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-16 01:52:36,176 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-16 01:52:36,786 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-16 01:52:36,787 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-16 01:52:37,325 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+INFO 2019-08-16 01:52:37,733 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-16 01:52:38,039 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+WARNING 2019-08-16 01:52:38,363 log 228 Not Found: /index.html
+WARNING 2019-08-16 01:52:38,372 basehttp 154 "GET /index.html HTTP/1.1" 404 3189
+INFO 2019-08-16 01:52:38,456 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 303104
+INFO 2019-08-16 01:52:38,555 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 303104
+INFO 2019-08-16 01:52:38,567 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+ERROR 2019-08-16 01:52:38,613 log 228 Internal Server Error: /news/
 Traceback (most recent call last):
   File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
     response = get_response(request)
@@ -284,9 +94,28 @@ Traceback (most recent call last):
     return self.dispatch(request, *args, **kwargs)
   File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
     return handler(request, *args, **kwargs)
-TypeError: get() missing 1 required positional argument: 'image_code_id'
-ERROR 2019-06-16 23:08:40,850 basehttp 154 "GET /image_codes HTTP/1.1" 500 70097
-ERROR 2019-06-16 23:08:42,777 log 228 Internal Server Error: /image_codes
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 01:52:38,625 basehttp 154 "GET /news/?tag=0&page=1 HTTP/1.1" 500 15925
+INFO 2019-08-16 01:52:40,023 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-16 01:52:40,115 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-16 01:52:40,116 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+ERROR 2019-08-16 01:52:40,195 log 228 Internal Server Error: /news/
 Traceback (most recent call last):
   File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
     response = get_response(request)
@@ -298,9 +127,27 @@ Traceback (most recent call last):
     return self.dispatch(request, *args, **kwargs)
   File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
     return handler(request, *args, **kwargs)
-TypeError: get() missing 1 required positional argument: 'image_code_id'
-ERROR 2019-06-16 23:08:42,783 basehttp 154 "GET /image_codes HTTP/1.1" 500 70097
-ERROR 2019-06-16 23:08:45,314 log 228 Internal Server Error: /image_codes
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 01:52:40,206 basehttp 154 "GET /news/?tag=0&page=1 HTTP/1.1" 500 15925
+INFO 2019-08-16 01:52:42,093 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-16 01:52:44,899 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+ERROR 2019-08-16 01:52:48,281 log 228 Internal Server Error: /news/
 Traceback (most recent call last):
   File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
     response = get_response(request)
@@ -312,192 +159,391 @@ Traceback (most recent call last):
     return self.dispatch(request, *args, **kwargs)
   File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
     return handler(request, *args, **kwargs)
-TypeError: get() missing 1 required positional argument: 'image_code_id'
-ERROR 2019-06-16 23:08:45,326 basehttp 154 "GET /image_codes HTTP/1.1" 500 70097
-INFO 2019-06-16 23:08:58,901 basehttp 154 "GET /image_codes HTTP/1.1" 200 3044
-INFO 2019-06-16 23:08:59,931 basehttp 154 "GET /image_codes HTTP/1.1" 200 2889
-INFO 2019-06-16 23:09:00,394 basehttp 154 "GET /image_codes HTTP/1.1" 200 3341
-INFO 2019-06-16 23:09:00,575 basehttp 154 "GET /image_codes HTTP/1.1" 200 3224
-INFO 2019-06-16 23:09:00,743 basehttp 154 "GET /image_codes HTTP/1.1" 200 3310
-INFO 2019-06-16 23:09:00,947 basehttp 154 "GET /image_codes HTTP/1.1" 200 3012
-INFO 2019-06-16 23:09:01,312 basehttp 154 "GET /image_codes HTTP/1.1" 200 3485
-INFO 2019-06-16 23:09:01,485 basehttp 154 "GET /image_codes HTTP/1.1" 200 3237
-INFO 2019-06-16 23:09:01,680 basehttp 154 "GET /image_codes HTTP/1.1" 200 3729
-INFO 2019-08-05 21:43:08,552 basehttp 154 "GET / HTTP/1.1" 200 18045
-INFO 2019-08-05 21:43:08,632 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
-INFO 2019-08-05 21:43:08,635 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
-INFO 2019-08-05 21:43:08,646 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
-INFO 2019-08-05 21:43:08,666 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
-INFO 2019-08-05 21:43:08,775 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
-INFO 2019-08-05 21:43:08,976 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
-INFO 2019-08-05 21:43:08,977 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
-INFO 2019-08-05 21:43:08,978 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
-INFO 2019-08-05 21:43:09,037 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
-INFO 2019-08-05 21:43:09,082 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
-INFO 2019-08-05 21:43:09,228 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
-INFO 2019-08-05 21:43:09,300 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
-INFO 2019-08-05 21:43:09,450 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
-INFO 2019-08-05 21:43:09,457 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
-INFO 2019-08-05 21:43:09,466 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
-INFO 2019-08-05 21:43:09,506 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
-INFO 2019-08-05 21:43:09,507 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
-WARNING 2019-08-05 21:43:09,630 log 228 Not Found: /favicon.ico
-WARNING 2019-08-05 21:43:09,632 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2338
-INFO 2019-08-05 21:43:16,400 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4859
-INFO 2019-08-05 21:43:16,450 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 1264
-INFO 2019-08-05 21:43:16,452 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
-INFO 2019-08-05 21:43:16,637 views 38 Image code: OI4G
-INFO 2019-08-05 21:43:16,641 basehttp 154 "GET /image_codes/79ee38e2-d9e6-4dba-8c82-dd7e6b6af198/ HTTP/1.1" 200 2801
-INFO 2019-08-05 21:43:19,375 views 38 Image code: KUFH
-INFO 2019-08-05 21:43:19,377 basehttp 154 "GET /image_codes/f066f6f5-8c7d-417b-ac63-4fcd10ae0143/ HTTP/1.1" 200 3184
-WARNING 2019-08-05 22:06:09,251 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:06:09,253 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:06:15,388 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:15,391 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:34,148 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:34,151 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:34,833 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:34,834 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:35,016 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:35,026 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:35,169 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:35,175 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:35,344 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:35,346 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:35,502 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:35,504 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:35,698 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:35,700 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:36,388 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:36,390 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:36,549 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:36,551 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:36,729 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:06:36,730 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-WARNING 2019-08-05 22:06:47,053 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:06:47,054 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:07:42,339 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:07:42,344 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:07:42,916 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:07:42,918 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:07:43,477 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:07:43,479 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:07:43,644 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:07:43,646 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:07:43,819 log 228 Not Found: /image_code
-WARNING 2019-08-05 22:07:43,821 basehttp 154 "GET /image_code HTTP/1.1" 404 2308
-WARNING 2019-08-05 22:07:46,339 log 228 Not Found: /image_code/
-WARNING 2019-08-05 22:07:46,341 basehttp 154 "GET /image_code/ HTTP/1.1" 404 2311
-INFO 2019-08-05 22:08:23,735 views 30 Image code:NR4V
-INFO 2019-08-05 22:08:23,758 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3252
-INFO 2019-08-05 22:08:25,344 views 30 Image code:SDTN
-INFO 2019-08-05 22:08:25,355 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3320
-INFO 2019-08-05 22:08:25,873 views 30 Image code:WPQT
-INFO 2019-08-05 22:08:25,878 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3267
-INFO 2019-08-05 22:08:26,121 views 30 Image code:BESR
-INFO 2019-08-05 22:08:26,127 basehttp 154 "GET /image_code/ HTTP/1.1" 200 2940
-INFO 2019-08-05 22:08:26,283 views 30 Image code:3JEQ
-INFO 2019-08-05 22:08:26,286 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3387
-INFO 2019-08-05 22:09:34,127 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:09:34,240 log 228 Not Found: /image_codes/d20f42e7-6336-4d6c-880e-70d5e69ad50f/
-WARNING 2019-08-05 22:09:34,243 basehttp 154 "GET /image_codes/d20f42e7-6336-4d6c-880e-70d5e69ad50f/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:09:38,102 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:09:38,185 log 228 Not Found: /image_codes/74bf0052-d096-42a3-adad-72cc4e5a5a5f/
-WARNING 2019-08-05 22:09:38,187 basehttp 154 "GET /image_codes/74bf0052-d096-42a3-adad-72cc4e5a5a5f/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:09:38,436 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:09:38,506 log 228 Not Found: /image_codes/cdd014cc-efd9-40a2-8551-bc2bfebe621e/
-WARNING 2019-08-05 22:09:38,508 basehttp 154 "GET /image_codes/cdd014cc-efd9-40a2-8551-bc2bfebe621e/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:09:38,617 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:09:38,684 log 228 Not Found: /image_codes/2b6f5cbc-1a31-4701-bdce-14b4355a98ff/
-WARNING 2019-08-05 22:09:38,688 basehttp 154 "GET /image_codes/2b6f5cbc-1a31-4701-bdce-14b4355a98ff/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:09:38,762 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:09:38,853 log 228 Not Found: /image_codes/9e835479-431c-4933-94b0-f86f803569bd/
-WARNING 2019-08-05 22:09:38,854 basehttp 154 "GET /image_codes/9e835479-431c-4933-94b0-f86f803569bd/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:10:43,312 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:10:43,399 log 228 Not Found: /image_codes/3f3d0d16-2898-4c34-852a-7f30f137a66d/
-WARNING 2019-08-05 22:10:43,400 basehttp 154 "GET /image_codes/3f3d0d16-2898-4c34-852a-7f30f137a66d/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:10:44,348 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:10:44,444 log 228 Not Found: /image_codes/3d883a60-e9da-4660-903c-a5e0839fd831/
-WARNING 2019-08-05 22:10:44,449 basehttp 154 "GET /image_codes/3d883a60-e9da-4660-903c-a5e0839fd831/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:11:09,708 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:11:09,866 log 228 Not Found: /image_codes/c3f462f1-594c-42db-a538-f29c0f8cdc75/
-WARNING 2019-08-05 22:11:09,869 basehttp 154 "GET /image_codes/c3f462f1-594c-42db-a538-f29c0f8cdc75/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:11:09,892 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:11:10,026 log 228 Not Found: /image_codes/7efed347-2a90-43f6-a81a-67b5c5347a96/
-WARNING 2019-08-05 22:11:10,034 basehttp 154 "GET /image_codes/7efed347-2a90-43f6-a81a-67b5c5347a96/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:11:10,038 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:11:10,137 log 228 Not Found: /image_codes/5c594ac1-5bb8-43cf-a7b8-d48b9a54a05a/
-WARNING 2019-08-05 22:11:10,139 basehttp 154 "GET /image_codes/5c594ac1-5bb8-43cf-a7b8-d48b9a54a05a/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:11:10,163 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:11:10,285 log 228 Not Found: /image_codes/ffc8eecf-c522-4d2e-ba21-59750364c684/
-WARNING 2019-08-05 22:11:10,287 basehttp 154 "GET /image_codes/ffc8eecf-c522-4d2e-ba21-59750364c684/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:11:10,602 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:11:10,700 log 228 Not Found: /image_codes/c702c516-c7fb-46e4-92bf-e4623c78df3f/
-WARNING 2019-08-05 22:11:10,703 basehttp 154 "GET /image_codes/c702c516-c7fb-46e4-92bf-e4623c78df3f/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:11:10,760 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:11:10,954 log 228 Not Found: /image_codes/5a625ca9-2927-459d-8d12-6bc15de008d0/
-WARNING 2019-08-05 22:11:10,955 basehttp 154 "GET /image_codes/5a625ca9-2927-459d-8d12-6bc15de008d0/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:13:23,538 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-WARNING 2019-08-05 22:13:23,662 log 228 Not Found: /image_codes/0933b2a4-bd40-4f05-949c-24a857e3bbf6/
-WARNING 2019-08-05 22:13:23,663 basehttp 154 "GET /image_codes/0933b2a4-bd40-4f05-949c-24a857e3bbf6/ HTTP/1.1" 404 2424
-INFO 2019-08-05 22:13:36,307 views 30 Image code:YMZP
-INFO 2019-08-05 22:13:36,317 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3336
-INFO 2019-08-05 22:14:08,032 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-INFO 2019-08-05 22:14:08,086 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
-INFO 2019-08-05 22:14:08,103 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
-INFO 2019-08-05 22:14:08,136 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
-INFO 2019-08-05 22:14:08,143 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
-INFO 2019-08-05 22:14:08,140 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 1307
-INFO 2019-08-05 22:14:08,176 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
-INFO 2019-08-05 22:14:08,731 views 30 Image code:Q8SN
-INFO 2019-08-05 22:14:08,738 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3310
-INFO 2019-08-05 22:14:12,935 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-INFO 2019-08-05 22:14:13,095 views 30 Image code:UDIS
-INFO 2019-08-05 22:14:13,099 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3211
-INFO 2019-08-05 22:15:32,597 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-INFO 2019-08-05 22:15:32,642 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 1327
-INFO 2019-08-05 22:15:32,777 views 30 Image code:BEV4
-INFO 2019-08-05 22:15:32,779 basehttp 154 "GET /image_code/?rand=0.08969719950055843 HTTP/1.1" 200 2928
-INFO 2019-08-05 22:15:34,101 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-INFO 2019-08-05 22:15:34,157 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-INFO 2019-08-05 22:15:34,220 views 30 Image code:HF3G
-INFO 2019-08-05 22:15:34,225 basehttp 154 "GET /image_code/?rand=0.7466082107311311 HTTP/1.1" 200 3457
-INFO 2019-08-05 22:15:35,219 views 30 Image code:JQRF
-INFO 2019-08-05 22:15:35,225 basehttp 154 "GET /image_code/?rand=0.6729134322653725 HTTP/1.1" 200 3153
-INFO 2019-08-05 22:15:35,831 views 30 Image code:5YIJ
-INFO 2019-08-05 22:15:35,841 basehttp 154 "GET /image_code/?rand=0.9388081976594704 HTTP/1.1" 200 2962
-INFO 2019-08-05 22:15:36,301 views 30 Image code:AXVB
-INFO 2019-08-05 22:15:36,305 basehttp 154 "GET /image_code/?rand=0.6782578459537503 HTTP/1.1" 200 3219
-INFO 2019-08-05 22:15:36,718 views 30 Image code:PA56
-INFO 2019-08-05 22:15:36,721 basehttp 154 "GET /image_code/?rand=0.10921468126571221 HTTP/1.1" 200 3155
-INFO 2019-08-05 22:15:37,081 views 30 Image code:LBY4
-INFO 2019-08-05 22:15:37,086 basehttp 154 "GET /image_code/?rand=0.8206807143080568 HTTP/1.1" 200 3089
-INFO 2019-08-05 22:15:37,277 views 30 Image code:SPNF
-INFO 2019-08-05 22:15:37,281 basehttp 154 "GET /image_code/?rand=0.6315995654340336 HTTP/1.1" 200 3344
-INFO 2019-08-05 22:16:27,219 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-INFO 2019-08-05 22:16:27,258 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
-INFO 2019-08-05 22:16:27,294 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
-INFO 2019-08-05 22:16:27,299 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
-INFO 2019-08-05 22:16:27,336 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
-INFO 2019-08-05 22:16:27,342 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 200 1458
-INFO 2019-08-05 22:16:27,350 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
-INFO 2019-08-05 22:16:28,017 views 30 Image code:6WVU
-INFO 2019-08-05 22:16:28,022 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3654
-INFO 2019-08-05 22:16:29,648 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4852
-INFO 2019-08-05 22:16:29,677 basehttp 154 "GET /static/js/users/auth.js HTTP/1.1" 304 0
-INFO 2019-08-05 22:16:29,852 views 30 Image code:D7ZW
-INFO 2019-08-05 22:16:29,869 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3298
-INFO 2019-08-05 23:18:55,441 basehttp 154 "GET / HTTP/1.1" 200 18045
-INFO 2019-08-05 23:18:55,481 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
-INFO 2019-08-05 23:18:55,523 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
-INFO 2019-08-05 23:18:55,638 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
-INFO 2019-08-05 23:18:55,654 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
-INFO 2019-08-05 23:18:55,658 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
-INFO 2019-08-05 23:18:55,660 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
-INFO 2019-08-05 23:18:55,662 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
-INFO 2019-08-05 23:18:55,722 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
-INFO 2019-08-05 23:18:55,728 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
-INFO 2019-08-05 23:18:55,730 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
-INFO 2019-08-05 23:18:55,727 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
-INFO 2019-08-05 23:18:55,815 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
-INFO 2019-08-05 23:18:55,818 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 01:52:49,162 basehttp 154 "GET /news/ HTTP/1.1" 500 138529
+ERROR 2019-08-16 01:54:22,291 log 228 Internal Server Error: /news/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 01:54:22,683 basehttp 154 "GET /news/ HTTP/1.1" 500 138790
+ERROR 2019-08-16 02:03:18,829 log 228 Internal Server Error: /news/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 02:03:19,088 basehttp 154 "GET /news/ HTTP/1.1" 500 138790
+ERROR 2019-08-16 02:03:22,631 log 228 Internal Server Error: /news/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 02:03:23,560 basehttp 154 "GET /news/ HTTP/1.1" 500 138790
+ERROR 2019-08-16 02:04:23,426 log 228 Internal Server Error: /news/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/pyvip/code/mysite/apps/news/views.py", line 54, in get
+    news = news_queryset.filter(is_delete=False, tag_id=tag_id) or news_queryset.filter(is_delete=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 844, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/query.py", line 862, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1263, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1287, in _add_q
+    split_subq=split_subq,
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1164, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1028, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/usr/local/lib/python3.6/dist-packages/django/db/models/sql/query.py", line 1389, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: author, author, author_id, banner, clicks, comments, content, create_time, digest, hotnews, id, image_url, is_deleted, tag, tag_id, tag_name, title, update_time
+ERROR 2019-08-16 02:04:24,301 basehttp 154 "GET /news/ HTTP/1.1" 500 138790
+INFO 2019-08-16 02:06:47,092 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:45,640 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:47,726 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:48,665 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:48,884 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:49,088 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:49,300 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:49,492 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:07:49,828 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:15:55,625 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:15:57,357 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:16:08,392 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:16:09,314 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:16:09,733 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:16:10,059 basehttp 154 "GET /news/ HTTP/1.1" 200 4869
+INFO 2019-08-16 02:16:31,276 basehttp 154 "GET / HTTP/1.1" 200 11549
+INFO 2019-08-16 02:16:31,439 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-16 02:16:31,445 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-16 02:16:31,446 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-16 02:16:31,472 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-16 02:16:31,639 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-16 02:16:31,641 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-16 02:16:31,643 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+WARNING 2019-08-16 02:16:31,661 basehttp 154 "GET /static/js/news/index.jss HTTP/1.1" 404 1675
+INFO 2019-08-16 02:16:31,856 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-16 02:16:32,055 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-16 02:16:32,056 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+WARNING 2019-08-16 02:16:32,272 basehttp 154 "GET /static/js/news/index.jss HTTP/1.1" 404 1675
+INFO 2019-08-16 02:16:32,474 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-16 02:16:33,409 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-16 02:16:33,617 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-08-16 02:16:33,929 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-16 02:16:33,931 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+INFO 2019-08-16 02:16:35,175 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-16 02:16:37,359 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-08-16 02:18:07,088 basehttp 154 "GET / HTTP/1.1" 200 11548
+INFO 2019-08-16 02:18:07,179 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-16 02:18:07,185 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-16 02:18:07,186 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-16 02:18:07,188 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-16 02:18:07,189 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-16 02:18:07,386 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-16 02:18:07,389 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-16 02:18:07,405 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-16 02:18:07,596 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 5929
+INFO 2019-08-16 02:18:07,599 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-16 02:18:07,800 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-16 02:18:08,251 basehttp 154 "GET /news/?tag=0&page=1 HTTP/1.1" 200 6142
+INFO 2019-08-16 02:18:08,427 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-16 02:18:09,153 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-16 02:18:09,467 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-08-16 02:18:09,569 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-16 02:18:09,777 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+WARNING 2019-08-16 02:18:10,096 log 228 Not Found: /media/python_web.jpg
+WARNING 2019-08-16 02:18:10,097 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 404 1788
+INFO 2019-08-16 02:18:10,919 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-16 02:18:13,208 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-08-16 02:18:48,711 basehttp 154 "GET / HTTP/1.1" 200 11548
+INFO 2019-08-16 02:18:48,792 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-16 02:18:48,796 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-16 02:18:48,799 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-16 02:18:48,800 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-16 02:18:49,007 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-16 02:18:49,015 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 5929
+INFO 2019-08-16 02:18:49,016 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-16 02:18:49,108 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-16 02:18:49,211 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-16 02:18:49,215 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-16 02:18:49,415 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-16 02:18:49,684 basehttp 154 "GET /news/?tag=0&page=1 HTTP/1.1" 200 6142
+INFO 2019-08-16 02:18:49,833 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-16 02:18:50,874 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-16 02:18:50,979 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-08-16 02:18:51,291 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+INFO 2019-08-16 02:18:51,294 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-08-16 02:18:51,715 log 228 Not Found: /media/python_web.jpg
+WARNING 2019-08-16 02:18:51,716 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 404 1788
+INFO 2019-08-16 02:18:52,430 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-16 02:18:54,822 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-08-16 02:19:10,753 basehttp 154 "GET / HTTP/1.1" 200 11548
+INFO 2019-08-16 02:19:10,841 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-16 02:19:10,844 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-16 02:19:10,847 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-16 02:19:10,848 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-16 02:19:11,059 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 5929
+INFO 2019-08-16 02:19:11,060 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-16 02:19:11,061 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-16 02:19:11,153 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-16 02:19:11,257 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-16 02:19:11,261 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-16 02:19:11,264 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-16 02:19:11,674 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-08-16 02:19:12,025 basehttp 154 "GET /news/?tag=0&page=1 HTTP/1.1" 200 6142
+INFO 2019-08-16 02:19:12,194 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-16 02:19:12,817 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-16 02:19:13,441 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-16 02:19:13,752 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+INFO 2019-08-16 02:19:13,962 basehttp 154 "GET /media/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-16 02:19:14,480 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-16 02:19:16,871 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-08-16 02:19:48,006 basehttp 154 "GET /news/?tag=0&page=2 HTTP/1.1" 200 5662
+INFO 2019-08-17 14:10:33,459 basehttp 154 "GET / HTTP/1.1" 200 11548
+INFO 2019-08-17 14:10:33,706 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:10:33,708 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:10:33,712 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:10:33,717 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-17 14:10:33,900 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-17 14:10:33,929 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:10:33,908 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 5929
+INFO 2019-08-17 14:10:33,930 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:10:34,127 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+INFO 2019-08-17 14:10:34,316 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-17 14:10:34,317 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-17 14:10:34,944 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-17 14:10:35,359 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-08-17 14:10:35,672 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-17 14:10:35,876 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-17 14:10:36,304 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:10:36,501 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 303104
+INFO 2019-08-17 14:10:36,501 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 335872
+INFO 2019-08-17 14:10:36,523 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:10:36,524 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-17 14:10:36,535 basehttp 154 "GET /static/js/users/register.js HTTP/1.1" 200 7978
+INFO 2019-08-17 14:10:36,572 views 36 Image code:ACMH
+INFO 2019-08-17 14:10:36,588 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3381
+INFO 2019-08-17 14:11:42,253 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:11:42,349 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:11:42,354 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:11:42,465 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:11:42,469 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:11:42,480 views 36 Image code:FV5U
+INFO 2019-08-17 14:11:42,483 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3308
+INFO 2019-08-17 14:11:42,557 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:11:42,559 basehttp 154 "GET /static/js/users/register.js HTTP/1.1" 200 7978
+INFO 2019-08-17 14:11:42,563 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:12:18,502 basehttp 154 "GET / HTTP/1.1" 200 11548
+INFO 2019-08-17 14:12:18,686 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-17 14:12:18,782 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-17 14:12:18,884 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-17 14:12:19,092 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-17 14:12:22,212 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-17 14:12:24,507 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+INFO 2019-08-17 14:12:28,886 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:12:29,098 views 36 Image code:3YYS
+INFO 2019-08-17 14:12:29,101 basehttp 154 "GET /image_code/ HTTP/1.1" 200 2986
+INFO 2019-08-17 14:15:35,757 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:15:35,904 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:15:35,913 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:15:35,919 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:15:35,928 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:15:35,959 views 36 Image code:8JOG
+INFO 2019-08-17 14:15:35,962 basehttp 154 "GET /image_code/ HTTP/1.1" 200 2964
+INFO 2019-08-17 14:15:36,005 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:15:36,107 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:15:36,110 basehttp 154 "GET /static/js/users/register.js HTTP/1.1" 200 7978
+INFO 2019-08-17 14:15:40,084 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:15:40,424 views 36 Image code:EWKS
+INFO 2019-08-17 14:15:40,432 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3082
+WARNING 2019-08-17 14:16:19,496 log 228 Not Found: /favicon.ico
+WARNING 2019-08-17 14:16:19,503 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3192
+WARNING 2019-08-17 14:16:19,502 log 228 Not Found: /favicon.ico
+WARNING 2019-08-17 14:16:19,505 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3192
+INFO 2019-08-17 14:16:21,159 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:16:21,256 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:16:21,363 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:16:21,373 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:16:21,381 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:16:21,391 views 36 Image code:GW8A
+INFO 2019-08-17 14:16:21,394 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3121
+INFO 2019-08-17 14:16:21,464 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:16:21,471 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:16:21,570 basehttp 154 "GET /static/js/users/register.js HTTP/1.1" 200 7978
+INFO 2019-08-17 14:16:24,798 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:16:24,896 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:16:24,899 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:16:24,901 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:16:24,902 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:16:25,006 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:16:25,048 views 36 Image code:XAMQ
+INFO 2019-08-17 14:16:25,066 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3172
+INFO 2019-08-17 14:16:25,103 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:16:25,105 basehttp 154 "GET /static/js/users/register.js HTTP/1.1" 200 7978
+INFO 2019-08-17 14:16:37,908 basehttp 154 "GET /username/JaneZhou/ HTTP/1.1" 200 74
+INFO 2019-08-17 14:16:53,088 basehttp 154 "GET /username/CESHI/ HTTP/1.1" 200 71
+INFO 2019-08-17 14:17:00,265 basehttp 154 "GET /mobile/13888888888/ HTTP/1.1" 200 75
+ERROR 2019-08-17 14:17:06,288 views 143 发送短信验证码[失败][moblie: 13888888888 sms_code: 7031]
+INFO 2019-08-17 14:17:06,289 basehttp 154 "POST /sms_code/ HTTP/1.1" 200 99
+INFO 2019-08-17 14:17:34,587 basehttp 154 "GET /mobile/13888888888/ HTTP/1.1" 200 75
+ERROR 2019-08-17 14:17:35,406 views 143 发送短信验证码[失败][moblie: 13888888888 sms_code: 3906]
+INFO 2019-08-17 14:17:35,407 basehttp 154 "POST /sms_code/ HTTP/1.1" 200 99
+INFO 2019-08-17 14:17:41,671 basehttp 154 "POST /users/register/ HTTP/1.1" 200 88
+INFO 2019-08-17 14:18:24,626 basehttp 154 "GET /mobile/18819290253/ HTTP/1.1" 200 75
+ERROR 2019-08-17 14:18:25,550 views 143 发送短信验证码[失败][moblie: 18819290253 sms_code: 6585]
+INFO 2019-08-17 14:18:25,552 basehttp 154 "POST /sms_code/ HTTP/1.1" 200 99
+ERROR 2019-08-17 14:18:32,934 views 143 发送短信验证码[失败][moblie: 18819290253 sms_code: 5714]
+INFO 2019-08-17 14:18:32,936 basehttp 154 "POST /sms_code/ HTTP/1.1" 200 99
+INFO 2019-08-17 14:18:36,903 basehttp 154 "GET /mobile/18819290253/ HTTP/1.1" 200 75
+INFO 2019-08-17 14:18:38,667 basehttp 154 "GET /mobile/18819290253/ HTTP/1.1" 200 75
+INFO 2019-08-17 14:18:51,356 basehttp 154 "GET /mobile/13026323177/ HTTP/1.1" 200 75
+INFO 2019-08-17 14:18:53,214 views 141 发送短信验证码[正常][mobile: 13026323177 sms_code: 3973]
+INFO 2019-08-17 14:18:53,218 basehttp 154 "POST /sms_code/ HTTP/1.1" 200 96
+INFO 2019-08-17 14:19:07,067 basehttp 154 "POST /users/register/ HTTP/1.1" 200 96
+INFO 2019-08-17 14:19:08,721 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3942
+INFO 2019-08-17 14:19:08,815 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:19:08,819 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:19:08,821 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:19:08,822 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:19:08,920 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:19:08,922 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:19:09,030 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 200 2143
+INFO 2019-08-17 14:20:01,670 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:20:01,767 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-17 14:20:01,774 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-17 14:20:01,774 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-17 14:20:01,773 basehttp 154 "GET /static/css/users/auth.css HTTP/1.1" 200 3286
+INFO 2019-08-17 14:20:01,871 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-17 14:20:01,887 views 36 Image code:ICY7
+INFO 2019-08-17 14:20:01,889 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3027
+INFO 2019-08-17 14:20:01,983 basehttp 154 "GET /static/js/users/register.js HTTP/1.1" 200 7978
+INFO 2019-08-17 14:20:01,983 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-17 14:20:21,323 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4620
+INFO 2019-08-17 14:20:21,540 views 36 Image code:ZR7W
+INFO 2019-08-17 14:20:21,542 basehttp 154 "GET /image_code/ HTTP/1.1" 200 3443
+INFO 2019-08-17 14:20:26,215 basehttp 154 "GET /username/ceshi2/ HTTP/1.1" 200 72
+INFO 2019-08-17 14:20:33,390 basehttp 154 "GET /mobile/13026323177/ HTTP/1.1" 200 75
+INFO 2019-08-17 14:20:39,726 views 141 发送短信验证码[正常][mobile: 13026323177 sms_code: 0198]
+INFO 2019-08-17 14:20:39,727 basehttp 154 "POST /sms_code/ HTTP/1.1" 200 96
+INFO 2019-08-17 14:20:51,481 basehttp 154 "POST /users/register/ HTTP/1.1" 200 96
+INFO 2019-08-17 14:20:53,152 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3942
+INFO 2019-08-19 01:00:35,701 basehttp 154 "GET / HTTP/1.1" 200 11548
+INFO 2019-08-19 01:00:35,928 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-08-19 01:00:35,930 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-08-19 01:00:35,935 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4429
+INFO 2019-08-19 01:00:35,940 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-08-19 01:00:36,140 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-08-19 01:00:36,150 basehttp 154 "GET /static/js/news/index.js HTTP/1.1" 200 5929
+INFO 2019-08-19 01:00:36,154 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 1227
+INFO 2019-08-19 01:00:36,156 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-08-19 01:00:36,345 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-08-19 01:00:36,346 basehttp 154 "GET /static/images/wechat2.jpg HTTP/1.1" 200 41049
+INFO 2019-08-19 01:00:36,547 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-08-19 01:00:36,655 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-08-19 01:00:37,275 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-08-19 01:00:37,276 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-08-19 01:00:37,911 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-08-19 01:00:38,839 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-08-19 01:00:39,667 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-08-19 01:00:41,748 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+WARNING 2019-08-19 01:09:46,550 log 228 Not Found: /favicon.ico
+WARNING 2019-08-19 01:09:46,554 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 3192
