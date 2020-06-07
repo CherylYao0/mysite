@@ -1,0 +1,132 @@
+{% extends 'myadmin/base/content_base.html' %}
+{% load static %}
+{% block page_header %}系统设置{% endblock %}
+{% block page_option %}菜单管理{% endblock %}
+{% block content %}
+    <div class="box">
+        <div class="box-header with-border">
+            <h3 class="box-title">菜单列表</h3>
+            <div class="box-tools">
+                {#                   <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal-add" href="{% url 'myadmin:menu_add' %}">添加菜单#}
+                <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modal-add"
+                        href="/admin/menu/">添加菜单
+                </button>
+            </div>
+        </div>
+        <!-- /.box-header -->
+
+        <!-- /.box-body -->
+        <div class="box-body">
+            <table class="table table-bordered">
+                <tbody>
+                <tr>
+                    <th>菜单</th>
+                    <th>子菜单</th>
+                    <th>url</th>
+                    <th>图标</th>
+                    <th>权限码</th>
+                    <th>顺序</th>
+                    <th>是否可见</th>
+                    <th>逻辑删除</th>
+                    <th>操作</th>
+                </tr>
+                {% for menu in menus %}
+                    <tr>
+                        <td>{{ menu.name }}</td>
+                        <td></td>
+                        <td>{{ menu.url|default:'' }}</td>
+                        <td>{{ menu.icon }}</td>
+                        <td>{{ menu.codename }}</td>
+                        <td>{{ menu.order }}</td>
+                        <td>{% if menu.is_visible %}是{% else %}否{% endif %}</td>
+                        <td>{% if menu.is_delete %}是{% else %}否{% endif %}</td>
+                        <td style="width: 100px" data-id="{{ menu.id }}" data-name="{{ menu.name }}">
+
+                            <button type="button" class="btn btn-info btn-xs edit">编辑</button>
+                            {% if not menu.children.all %}
+                                <button type="button" class="btn btn-danger btn-xs delete">删除</button>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% if menu.children.all %}
+                        {% for child in menu.children.all %}
+                            <tr>
+                                <td></td>
+                                <td>{{ child.name }}</td>
+                                <td>{{ child.url }}</td>
+                                <td>{{ child.icon }}</td>
+                                <td>{{ child.codename }}</td>
+                                <td>{{ child.order }}</td>
+                                <td style="width: 80px">{% if child.is_visible %}是{% else %}否{% endif %}</td>
+                                <td style="width: 80px">{% if child.is_delete %}是{% else %}否{% endif %}</td>
+                                <td style="width: 100px" data-id="{{ child.id }}" data-name="{{ child.name }}">
+                                    <button type="button" class="btn btn-info btn-xs edit">编辑</button>
+                                    <button type="button" class="btn btn-danger btn-xs delete">删除</button>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    {% endif %}
+
+                {% endfor %}
+
+                </tbody>
+            </table>
+        </div>
+
+
+    </div>
+
+    <!-- add modle -->
+    <div class="modal fade" id="modal-add" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+
+    <!-- delete modle -->
+    <div class="modal modal-danger fade" id="modal-delete">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">警告</h4>
+                </div>
+                <div class="modal-body">
+                    <p>One fine body&hellip;</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline pull-left" data-dismiss="modal">取消</button>
+                    <button type="button" class="btn btn-outline delete-confirm">删除</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+
+
+    <!-- update modle -->
+    <div class="modal fade" id="modal-update" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+
+    <!-- 添加菜单时会自动给页面一个csrf_token（add_menu.html 已经加了csrf_token），而删除不会给，会报403错误，因此这里必须给一个csrf_token -->
+    {% csrf_token %}
+{% endblock %}
+{% block script %}
+    <script src="{% static 'js/myadmin/menu/menu_list.js' %}"></script>
+{% endblock %}

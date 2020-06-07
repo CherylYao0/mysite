@@ -2,10 +2,10 @@
 {% load static %}
 {% block title %}登陆{% endblock %}
 {% block link %}
-  <link rel="stylesheet" href="../../static/css/users/auth.css">
+    <link rel="stylesheet" href="{% static 'css/users/auth.css' %}">
 {% endblock %}
 
-{% block main %}
+{% block main_start %}
 <!-- container start -->
 <main id="container">
   <div class="login-contain">

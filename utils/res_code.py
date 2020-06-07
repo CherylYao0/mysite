@@ -3,6 +3,8 @@
 # author:HuangManyao
 import json,datetime
 from django.http import JsonResponse
+from django.core.serializers.json import DjangoJSONEncoder
+
 class Code:
     OK = "0"
     DBERR = "4001"
@@ -45,6 +47,17 @@ error_map = {
     Code.UNKOWNERR: "未知错误",
 }
 
+
+
+
+# json编码器
+# 自定义序列化器，处理时间字段.  因为json默认不支持datetime类型数据，所以自定义json编码器
+class MyJSONEncoder(DjangoJSONEncoder):
+    def default(self, o):
+        if isinstance(o, datetime.datetime):
+            # o.astimezone() 意思是转化为当前时区
+            return o.astimezone().strftime('%Y-%m-%d %H:%M:%S')  # 转换为本地时间
+
 def json_response(errno=Code.OK,errmsg='',data=None,kwargs=None):
     json_dict = {
         'errno': errno,
@@ -54,12 +67,4 @@ def json_response(errno=Code.OK,errmsg='',data=None,kwargs=None):
     if kwargs and isinstance(kwargs, dict):
         json_dict.update(kwargs)
 
-    return JsonResponse(json_dict)
-
-
-# json编码器
-# 自定义序列化器，处理时间字段
-class MyJSONEncoder(json.JSONEncoder):
-    def default(self, o):
-        if isinstance(o, datetime.datetime):
-            return o.astimezone().strftime('%Y-%m-%d %H:%M:%S')  # 转换为本地时间
+    return JsonResponse(json_dict,encoder=MyJSONEncoder)

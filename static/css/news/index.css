@@ -31,7 +31,7 @@
     display: block;
 }
 .pic li a img {
-    width: 100%;
+    width: 800px;
     height: 100%;
 }
 .banner .btn {
@@ -57,7 +57,7 @@
     transition: all 0.5s  linear;
 }
 .banner .tab {
-    width: 98px;
+    width: 130px;
     height: 12px;
     position: absolute;
     left: 50%;
@@ -96,6 +96,7 @@
 }
 .recommend-news li .recommend-thumbnail img {
     width: 100%;
+    height: 100%;
     transition: all 300ms ease-out;
 }
 .recommend-news li .info {

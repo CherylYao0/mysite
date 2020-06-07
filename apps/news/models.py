@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-from utils.modals import BaseModel
+from utils.models import BaseModel
 
 class Tag(BaseModel):
     """
@@ -56,6 +56,9 @@ class Comments(BaseModel):
     # on_delete = models.CASCADE级联删除
     news = models.ForeignKey('News', on_delete = models.CASCADE)
 
+    # 关联自己
+    parent = models.ForeignKey('self',on_delete=models.CASCADE,null=True)
+
     class Meta:
         ordering = ['-update_time', '-id']  # 排序
         db_table = "tb_comments"  # 指明数据库表名
@@ -65,6 +68,20 @@ class Comments(BaseModel):
     def __str__(self):
         return '<评论{}>'.format(self.id)
 
+    def to_dict_data(self):
+        '''
+        用来序列化
+        :return:
+        '''
+        comment_dict = {
+            'news_id':self.news_id,
+            'author':self.author.username,
+            'content_id':self.id,
+            'content':self.content,
+            'update_time':self.update_time.astimezone().strftime('%Y年%m月%d日 %H:%M'),
+            'parent':self.parent.to_dict_data() if self.parent else None
+        }
+        return comment_dict
 
 class HotNews(BaseModel):
     """

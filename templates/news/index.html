@@ -5,32 +5,13 @@
     <link rel="stylesheet" href="../../static/css/news/index.css">
 {% endblock %}
 
-{% block main-contain %}
+{% block main_contain %}
     <!-- main-contain start  -->
     <div class="main-contain">
-      <!-- banner start -->
+        <!-- banner start -->
         <div class="banner">
             <ul class="pic">
                 <!--淡入淡出banner-->
-
-
-                <li><a href="javascript:void(0);"><img src="../../static/images/ui.png" alt="test"></a></li>
-
-
-                <li><a href="javascript:void(0);"><img src="../../static/images/youxi.png" alt="test"></a></li>
-
-
-                <li><a href="javascript:void(0);"><img src="../../static/images/dianshang.png" alt="test"></a></li>
-
-
-                <li><a href="javascript:void(0);"><img src="../../static/images/zimeiti.png" alt="test"></a></li>
-
-
-                <li><a href="javascript:void(0);"><img src="../../static/images/python_gui.jpg" alt="test"></a></li>
-
-
-                <li><a href="javascript:void(0);"><img src="../../static/images/linux.jpg" alt="test"></a></li>
-
 
             </ul>
             <a href="javascript:void(0);" class="btn prev">
@@ -40,94 +21,60 @@
             <ul class="tab">
                 <!-- 按钮数量必须和图片一致 -->
 
-
-                <li></li>
-
-
-                <li></li>
-
-
-                <li></li>
-
-
-                <li></li>
-
-
-                <li></li>
-
-
-                <li></li>
-
-
             </ul>
         </div>
-      <!-- banner end -->
+        <!-- banner end -->
 
-      <!-- content start -->
-      <div class="content">
-        <!-- recommend-news start -->
-          <ul class="recommend-news">
-              <li>
-                  <a href="https://www.shiguangkey.com/course/2432" target="_blank">
-                      <div class="recommend-thumbnail">
-                          <img src="../../static/images/python_gui.jpg" alt="title">
-                      </div>
-                      <p class="info">Python GUI 教程 25行代码写一个小闹钟</p>
-                  </a>
-              </li>
+        <!-- content start -->
+        <div class="content">
+            <!-- recommend-news start -->
+            <ul class="recommend-news">
+                {% for item in hot_news %}
+                    <li>
+                        <a href="{% url 'news:news_detail' item.id %}" target="_blank">
+                            <div class="recommend-thumbnail">
+                                <img src="{{ item.news.image_url }}" alt="title">
+                            </div>
+                            <p class="info">{{ item.news.title }}</p>
+                        </a>
+                    </li>
+                {% endfor %}
 
-              <li>
-                  <a href="https://www.shiguangkey.com/course/2432" target="_blank">
-                      <div class="recommend-thumbnail">
-                          <img src="../../static/images/python_advanced.jpg" alt="title">
-                      </div>
-                      <p class="info">python高性能编程方法一</p>
-                  </a>
-              </li>
+            </ul>
+            <!-- recommend-news end -->
 
-              <li>
-                  <a href="https://www.shiguangkey.com/course/2432" target="_blank">
-                      <div class="recommend-thumbnail">
-                          <img src="../../static/images/jichujiaochen.jpeg" alt="title">
-                      </div>
-                      <p class="info">python基础 split 和 join函数比较</p>
-                  </a>
-              </li>
-          </ul>
-        <!-- recommend-news end -->
-
-        <!--  news-nav start-->
-          <nav class="news-nav">
-              <ul class="clearfix">
-                  <li class="active"><a href="javascript:void(0)">最新资讯</a></li>
+            <!--  news-nav start-->
+            <nav class="news-nav">
+                <ul class="clearfix">
+                    <li class="active"><a href="javascript:void(0)">最新资讯</a></li>
                     {% for tag in tags %}
                         <li><a href="javascript:void(0)" data-id="{{ tag.id }}">{{ tag.name }}</a>
-                  </li>
+                        </li>
                     {% endfor %}
 
-              </ul>
-          </nav>
-        <!--  news-nav end -->
+                </ul>
+            </nav>
+            <!--  news-nav end -->
 
-        <!-- news-contain start -->
-          <div class="news-contain">
-              <ul class="news-list">
+            <!-- news-contain start -->
+            <div class="news-contain">
+                <ul class="news-list">
 
-              </ul>
-          </div>
-        <!-- news-contain end -->
+                </ul>
+            </div>
+            <!-- news-contain end -->
 
-        <!-- btn-more start -->
-        <a href="javascript:void(0);" class="btn-more">加载更多</a>
-        <!-- btn-more end -->
-      </div>
-      <!-- content end -->
+            <!-- btn-more start -->
+            <a href="javascript:void(0);" class="btn-more">加载更多</a>
+            <!-- btn-more end -->
+        </div>
+        <!-- content end -->
     </div>
     <!-- main-contain  end -->
 {% endblock %}
 
 {% block script %}
-<script src="{% static 'js/news/index.js' %}"></script>
+    <script src="{% static 'js/news/index.js' %}"></script>
 {% endblock %}
 
 

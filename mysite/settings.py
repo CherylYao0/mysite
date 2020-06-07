@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'doc',
     'news',
     'verifications',
+    'haystack',
+    'myadmin',
 ]
 
 MIDDLEWARE = [
@@ -230,3 +232,19 @@ STATICFILES_DIRS = [
 # 媒体文件配置
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+
+# 全文搜索引擎haystack 配置
+# 不同的搜索引擎，配置不同，详情见官方文档
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.elasticsearch_backend.ElasticsearchSearchEngine',
+        'URL': 'http://127.0.0.1:9200/',    # 此处为elasticsearch运行的服务器ip地址和端口
+        'INDEX_NAME': 'tzpython',           # 指定elasticserach建立的索引库名称
+    },
+}
+
+# 搜索结果每页显示数量
+HAYSTACK_SEARCH_RESULTS_PER_PAGE = 5
+# 实时更新index：读取elasticsearch，建立索引，因为mysql是实时更新的。这条配置是为了在mysql更新的时候通知elasticsearch去刷新索引。所以下面这条必须配置上
+HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'

@@ -1,3 +1,4 @@
+/*== 修改course_detail.css 代码如下===*/
 #main {
 	flex: 1;
 }
@@ -6,27 +7,64 @@
 	width: 100%;
 }
 
-.course-contain .course-top-contain{
+.course-contain .course-top-contain, #course-video{
 	width: 100%;
 	background: #fff;
-	padding:0 20px;
+	/*padding:0 20px;*/
 }
 .course-top-contain .course-title {
 	font-size: 30px;
 	line-height: 2.5;
+    margin: 0 20px;
 }
 
 .course-top-contain .course-other {
 	line-height: 3.5;
+    margin: 0 20px;
 }
-.course-other  .share-list {
+.course-other  .share {
 	float: left;
 }
-.share-list span {
+.share span {
 	 margin-right: 8px;
 }
-.share-list i {
-	color: orange;
+.share i {
+        display: inline-block;
+    vertical-align: middle;
+    width: 14px;
+    height: 14px;
+    margin-right: 5px;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABM0lEQVQokY2Sr0tEQRSFv/dYsIiwYVFkg/deERZBbEaDiJpEBP8Ck6jYxCBuMlgNikGTIIjBIIhbBDGISUSwzIwW4wbtrmHnwWNxf5w099z7MXeYk1SrVbpJ1IrANjAKnAXvbgpdqaYegPF4Xha1hbSH2yQHZVrpCIpaCdj9p/WVxoFhUdsQtcVY94vaHhCAErAD/EboGTgoiNpYLAYiVAMmgU9gLnj3GP0ToAy8Bu8aBWArg6JmgbXg3VF+t+BdHahndQo0WvZvAFed3p6Bh8B3zvsB7kRtKj8oamOiNiFqCUAavHsHKsAmMAMMAtfAvahdiFpZ1NaBN+AFeBK1YtIuOaI2AhwD00AC9OXa+23/MXj3EbybB1ZbIIChrskJ3p0DtRb7stesLtEMQQU4Dd7d/gHKLE8gSrHhJgAAAABJRU5ErkJggg==);
+}
+.share .share-list{
+    display: none;
+    /*width: 130px;*/
+    position: relative;
+    background: #fff;
+    text-align: center;
+    line-height: 45px;
+    left: 8px;
+    /*box-shadow: 0 1px 2px #ccc;*/
+    /*border: 1px solid #ddd;*/
+    border-radius: 5px;
+    z-index: 1;
+}
+.share:hover .share-list{
+    display: inline-block;
+}
+.share-list:after{
+    content: "";
+    border: 12px solid transparent;
+    border-right-color: #eee;
+    position: absolute;
+    top: 0px;
+    left: -25px;
+}
+.share-list a{
+    cursor: pointer;
+}
+.share-list a img{
+    vertical-align: middle;
 }
 .course-other .buy-list {
 	float: right;

@@ -25,6 +25,7 @@ urlpatterns = [
     path('',include('news.urls')),
     path('',include('verifications.urls')),
     path('users/',include('users.urls')),
-    # path('doc/',include('doc.urls')),
-    # path('course/',include('course.urls')),
+    path('doc/',include('doc.urls')),
+    path('course/',include('course.urls')),
+    path('admin/',include('myadmin.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
